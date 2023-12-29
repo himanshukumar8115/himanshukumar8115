@@ -1,3 +1,22 @@
+
+## 🚀 About Me
+I'm Himanshu and I am Interested in Data Science And AI Projects 
+
+
+
+# Hi, I'm Himanshu! 👋
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
+
+## 🛠 Skills
+Excel,Data Science,Machine Learning,Python,Power BI,Tally...
+
 - 👋 Hi, I’m @himanshukumar8115
 - 👀 I’m interested in Data Science And AI Projects...
 - 🌱 I’m currently learning Data Science And AI...
